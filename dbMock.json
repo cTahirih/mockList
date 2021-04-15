@@ -1,0 +1,44 @@
+{
+	listAgencies: [
+		{
+		  id: 1,
+		  agencia: 'Las Flores',
+		  distrito: 'San Juan De Lurigancho',
+		  provincia: 'Lima',
+		  departamento: 'Lima',
+		  direccion: 'Las Flores de Primavera 1487',
+		  lat: -77.01232817,
+		  lon: -12.0046896
+		},
+		{
+		  id: 2,
+		  agencia: 'Punchana',
+		  distrito: 'Punchana',
+		  provincia: 'Maynas',
+		  departamento: 'Loreto',
+		  direccion: 'Av. La Marina N° 944',
+		  lat: -73.240647,
+		  lon: -3.731367
+		},
+		{
+		  id: 3,
+		  agencia: 'Conquistadores',
+		  distrito: 'San Isidro',
+		  provincia: 'Lima',
+		  departamento: 'Lima',
+		  direccion: 'Av. Conquistadores 968',
+		  lat: -77.03735314,
+		  lon: -12.10568371
+		},
+		{
+		  id: 4,
+		  agencia: 'Salvador Allende',
+		  distrito: 'Villa Maria del Triunfo',
+		  provincia: 'Lima',
+		  departamento: 'Lima',
+		  direccion: 'Av. Salvador Allende 468 – Villa María del Triunfo',
+		  lat: -76.957646,
+		  lon: -12.158153
+		},
+	]
+}
